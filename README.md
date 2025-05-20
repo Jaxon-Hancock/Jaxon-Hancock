@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaxon Hancock</h1>
 <h3 align="center">A graduate research assistant at Michigan State University</h3>
 
-- 🔭 I’m currently working on **Estabilishing the theoretical bounds of adversarial example generation**
+- 🔭 I’m currently working on **estabilishing the theoretical bounds of adversarial example generation**
 
-- 🌱 I’m always learning **Python, Jupyter, Git**
+- 🌱 I’m always learning **Python, Jupyter, git**
 
 - 📝 I regularly write articles for [https://www.ieee.org/](https://www.ieee.org/)
 
